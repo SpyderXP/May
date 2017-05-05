@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <style>
+        .menu,.menu ul,.menu li,.menu a
+        {margin:0;
+        padding: 0;
+        border:none;
+        outline: none;}
+
+     .menu
+        {height:40px;
+        width:660px;
+        background:#4c4e5a;
+        background:-webkit-linear-gradient(top,#4c4e5a 0%,#2c2d33 100%);
+        background: -moz-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+        background: -o-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+        background: -ms-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+        background: linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
+        border-radius:5px;
+        -webkit-border-radius:5px;
+        -moz-border-radius:5px;
+        margin:0 auto;
+
+}
+
+    .menu li
+    {position:relative;
+    list-style:none;
+    float:left;
+    display:block;
+    height:40px;
+    width:110px
+    }
+
+
+
+    .menu li a
+    {display:block;
+    padding:0 14px;
+    margin:6px 0;
+    line-height:28px;
+    text-decoration:none;
+    border-left:1px solid #393942;
+    border-right:1px solid #4f5058;
+    font-family:Helvetica,Arial,sans-serif;
+    font-weight:bold;
+    font-size:13px;
+    color:#f3f3f3;
+    text-shadow: 1px 1px 1px rgba(0,0,0,.6);
+    -webkit-transition: color .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out;
+    -o-transition: color .2s ease-in-out;
+    -ms-transition: color .2s ease-in-out;
+    transition: color .2s ease-in-out;}
+
+    .menu li:first-child a{border-left:none;}
+
+    .menu li:last-child a{border-right:none;}
+
+    .menu li:hover>a{color:#8fde62}
+
+    .menu ul
+    {position:absolute;
+    top:40px;
+    left:0;
+    opacity:0;
+    background:#1f2024;
+    border-radius:0 0 5px 5px;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    transition:opacity.25s ease .1s;
+    -webkit-transition:opacity.25s ease .1s;
+    -moz-transition:opacity.25s ease .1s;
+    -o-transition:opacity.25s ease .1s;
+    -ms-transition:opacity.25s ease .1s;}
+
+    .menu li:hover>ul{opacity:1;}
+
+    .menu ul li
+    {height:0;
+    overflow:hidden;
+    padding:0;
+    transition:height 0.25s ease .1s;
+    -webkit-transition: height 0.25s ease .1s;
+    -moz-transition: height 0.25s ease .1s;
+    -o-transition: height 0.25s ease .1s;
+    -ms-transition: height 0.25s ease .1s;}
+
+    .menu li:hover>ul li
+    {
+        height:36px;
+        overflow:visible;
+        padding:0;
+    }
+
+    .menu ul li a
+    {
+        width:70px;
+        padding:4px 0 4px 40px;
+        margin:0;
+        border:none;
+        border-bottom:1px solid #353539;
+    }
+
+    .menu ul li:last-child a{border:none;}
+
+    .st{
+        height:180px;
+        background-image:url(jiese.png);
+        background-size:100% 180px;
+    }
+
+    .pass{
+        height:150px;
+        background-color:greenyellow;
+    }
+
+    .zhao{
+        background-image:url(zhao.png);
+        background-size:100% 400px;
+        height:400px;
+    }
+
+    body{
+        margin:0;
+        padding:0;
+    }
+
+
+    .fanxing{
+        background-color:indianred;
+        color:limegreen;
+        font-family:Arial, Helvetica, sans-serif;
+}
+       </style>
+    </head>
+    <body>
+        <div class="st">
+        <ul class="menu">
+            <li><a href="#">亚洲情色</a>
+            <ul><li><a href="#">草</a></li>
+                <li><a href="#">你</a></li>
+                <li><a href="#">妈</a></li></ul></li>
+            <li><a href="#">欧美系列</a></li>
+            <li><a href="#">日韩精品</a>
+            <ul><li><a href="#">舒</a></li>
+                <li><a href="#">服</a></li>
+                <li><a href="#">了</a></li></ul></li>
+            <li><a href="#">丝袜诱惑</a></li>
+            <li><a href="#">激情裸聊</a></li>
+            <li><a href="#">同城交友</a></li>
+        </ul>
+        </div>
+        <div class="pass"></div>
+        <div class="zhao"></div>
+        <div class="fanxing">
+<<blockquote>
+    戒色吧，是我们这一群曾经颓废迷茫但不又愿自甘堕落的年轻人的聚集地。在这里，我们互相鼓励，誓要摆脱腐朽文化，戒除手淫等不良性行为，并且通过戒的过程历练提高自己，找回原来阳光纯洁自我，励志积极奋发向上，实现不做屌丝做男神的远大理想。
+
+戒色吧是百万人的大贴吧了，这全都是各位热心吧友建设发展戒色吧的成果！记得以前初初建立戒色吧的时候被一些极端反对者骚扰投诉，差点被占领，整个贴吧都没有了，最后还是因为吧务和吧友团结一致，才坚持到现在，戒色吧是来之不易的。
+
+这里有着自己独特的贴吧文化和精神，以戒色奋发向上为主要代表，长期以来的发展形成了一种积极健康向上的氛围。戒色吧也许得罪了一些人，破坏了有些人的利益，或许以后也有不存在的一天，但是戒色吧这种戒除不良性行为，奋发向上的理念和精神将会永存，我们也将会和大家多多发扬这种戒色励志精神理念，少年强则国强，我们绝对不能做东亚病夫！
+
+戒色吧精品帖提供分享戒色文章、养生文章、修心文章，供大家戒除不良性行为，调理好虚弱的身体，提高自己的修养，这样才能使大家真正实现不做屌丝做男神的理想！
+
+这里不仅仅是戒除手淫的地方，更是养生健身，恢复身体、摆脱颓废，励志向上的地方，也是我们戒友之间互相交流，互相鼓励的地方，就像一个温暖的大家庭一样。
+
+戒除不良性行为，也是为了更好地生活，所以戒色吧也是贴近生活的贴吧，大家可以在这里尽情和其他戒友交流倾诉分享生活中的酸甜苦辣。一个人有高兴的事情，分享给另一个人，就得到两份的快乐；一个人有忧愁，分享给另一个人，自己也就消一半愁。没有人分享的时候，戒色吧永远欢迎大家！
+
+</blockquote>>
+        </div>
+    </body>
+</html>
